@@ -1,0 +1,81 @@
+{ "menu" : [
+{   "id" : 1,
+    "type" : "pizza",
+    "name" : "Margaritha",
+    "desc" : "tomatsås, ost",
+    "price" : 89
+},
+{   "id" : 2,
+    "type" : "pizza",
+    "name" : "Capricciosa",
+    "desc" : "skinka, champinjoner",
+    "price" : 89
+},
+{   "id" : 3,
+    "type" : "pizza",
+    "name" : "Hawaii",
+    "desc" : "skinka, ananas",
+    "price" : 89
+},
+{   "id" : 4,
+    "type" : "pizza",
+    "name" : "Calzone",
+    "desc" : "skinka, ost - inbakad",
+    "price" : 89
+},
+{   "id" : 5,
+    "type" : "pizza",
+    "name" : "Green Supreme",
+    "desc" : "halloumi, portobello, grönkål, rödlök",
+    "price" : 99
+},
+{   "id" : 6,
+    "type" : "pizza",
+    "name" : "Viva Italia",
+    "desc" : "mozarella, prosciutto, ruccula, pesto",
+    "price" : 109
+},
+{   "id" : 7,
+    "type" : "pizza",
+    "name" : "Kebabpizza",
+    "desc" : "kebab, sallad, keebabsås",
+    "price" : 99
+},
+{   "id" : 8,
+    "type" : "sallad",
+    "name" : "Caesar",
+    "desc" : "kyckling",
+    "price" : 99
+},
+{   "id" : 9,
+    "type" : "sallad",
+    "name" : "Grekisk",
+    "desc" : "Fetaost, tomat, gurka, oliver",
+    "price" : 89
+},
+{   "id" : 10,
+    "type" : "sallad",
+    "name" : "Melon surprise",
+    "desc" : "Vattenmelon, getost, tomat, gurka",
+    "price" : 99
+},
+{   "id" : 11,
+    "type" : "dryck",
+    "name" : "Coca cola",
+    "desc" : "Du vet smaken...",
+    "price" : 15
+},
+{   "id" : 12,
+    "type" : "dryck",
+    "name" : "Fanta",
+    "desc" : "Apelsin",
+    "price" : 15
+},
+{   "id" : 13,
+    "type" : "dryck",
+    "name" : "Loka",
+    "desc" : "Granatäpple",
+    "price" : 15
+}
+]
+}
